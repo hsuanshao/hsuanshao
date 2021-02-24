@@ -1,37 +1,17 @@
-## Welcome to Willaim Chang's GitHub Pages
+# Welcome to Willaim Chang's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hsuanshao/hsuanshao/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am William!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Right now I am a freelancer on my personal research.
 
-### Markdown
+In My professional work experiences, I have   
+- Excellent communication skills: listening, writing, and interpreting technical content
+- Strong programing skills and deep knowledge in the next areas: Golang/Redis /Kubernetes/docker/docker-compose and more
+- Strong experience in RESTful/GraphQL/protobuf/gRPC
+- Excellent communication and collaboration skills. I work with product owner, mobile engineers, data engineers, designers and cartographers on a daily basis
+- Strong and varied experience in building and shipping performant, flexible, and scalable cloud orchestration frameworks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hsuanshao/hsuanshao/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### I am looking for collaborate on
+- Any impactful Golang project and IoT or Edge Computing
+- A startup? maybe we can discuss if your business goal is interesting
+- Global wide company work oppertunity 
