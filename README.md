@@ -14,4 +14,4 @@ In My professional work experiences, I have
 ### I am looking for collaborate on
 - Any impactful Golang project and IoT or Edge Computing
 - A startup? maybe we can discuss if your business goal is interesting
-- Global wide company work oppertunity 
+- Global wide company work opportunity 
